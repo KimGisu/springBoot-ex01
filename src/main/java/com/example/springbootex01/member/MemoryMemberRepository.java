@@ -18,4 +18,5 @@ public class MemoryMemberRepository implements MemberRepository{
     }
 
     //test01
+    //test02
 }
