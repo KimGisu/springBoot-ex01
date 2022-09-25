@@ -16,4 +16,7 @@ public class MemoryMemberRepository implements MemberRepository{
     public Member findById(Long memberId) {
         return store.get(memberId);
     }
+
+    //test01
+    //test02
 }
